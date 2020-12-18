@@ -1,0 +1,44 @@
+{
+  "name": "jambagecom/tt-products-foundby",
+  "type": "typo3-cms-extension",
+  "description": "Foundby select box antries for the Shop system extension",
+  "keywords": [
+    "TYPO3",
+    "extension",
+    "shop",
+    "foundby"
+  ],
+  "support": {
+    "issues": "https://jambage.com/kontakt/forum.html"
+  },
+  "autoload": {
+    "psr-4": {
+      "JambageCom\\TtProductsFoundby\\": "Classes"
+    }
+  },
+  "homepage": "https://jambage.com",
+  "authors": [
+    {
+      "name": "Franz Holzinger",
+      "role": "Developer",
+      "homepage": "https://ttproducts.de"
+    }
+  ],
+  "license": [
+    "GPL-2.0-or-later"
+  ],
+  "require": {
+    "php": "^5.5 || ^7.0",
+    "typo3/cms-core": "^8.7 || ^9.5 || ^10.4",
+    "jambagecom/tt-products": "^2.9.12 || ^2.13 || ^3.1 || ^3.2"
+  },
+  "replace": {
+    "jambagecom/tt-products-foundby": "self.version",
+    "typo3-ter/tt-products-foundby": "self.version"
+  },
+  "extra": {
+    "typo3/cms": {
+      "extension-key": "tt_products_foundby"
+    }
+  }
+}

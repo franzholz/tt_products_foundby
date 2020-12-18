@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.0" xmlns:t3="http://typo3.org/schemas/xliff">
+	<file t3:id="1606410157" source-language="en" datatype="plaintext" original="messages" date="2020-11-26T18:03:00Z" product-name="tt_products_foundby">
+		<header/>
+		<body>
+			<trans-unit id="sys_products_orders.foundby.I.0">
+				<source>Mountain Rescue</source>
+			</trans-unit>
+			<trans-unit id="sys_products_orders.foundby.I.1">
+				<source>Airrescue</source>
+			</trans-unit>
+			<trans-unit id="sys_products_orders.foundby.I.2">
+				<source>Skipatrol</source>
+			</trans-unit>
+			<trans-unit id="sys_products_orders.foundby.I.3">
+				<source>Altitude Rescue</source>
+			</trans-unit>
+			<trans-unit id="sys_products_orders.foundby.I.4">
+				<source>Cave Rescue</source>
+			</trans-unit>
+			<trans-unit id="sys_products_orders.foundby.I.5">
+				<source>Ground Rescue</source>
+			</trans-unit>
+			<trans-unit id="sys_products_orders.foundby.I.6">
+				<source>Fire Brigade</source>
+			</trans-unit>
+        </body>
+	</file>
+</xliff>

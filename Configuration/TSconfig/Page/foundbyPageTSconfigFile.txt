@@ -1,0 +1,11 @@
+
+TCEFORM.sys_products_orders.foundby {
+    altLabels.0 = LLL:EXT:tt_products_foundby/Resources/Private/Language/locallang.xlf:sys_products_orders.foundby.I.0
+    altLabels.1 = LLL:EXT:tt_products_foundby/Resources/Private/Language/locallang.xlf:sys_products_orders.foundby.I.1
+    altLabels.2 = LLL:EXT:tt_products_foundby/Resources/Private/Language/locallang.xlf:sys_products_orders.foundby.I.2
+    altLabels.3 = LLL:EXT:tt_products_foundby/Resources/Private/Language/locallang.xlf:sys_products_orders.foundby.I.3
+    altLabels.4 = LLL:EXT:tt_products_foundby/Resources/Private/Language/locallang.xlf:sys_products_orders.foundby.I.4
+    altLabels.5 = LLL:EXT:tt_products_foundby/Resources/Private/Language/locallang.xlf:sys_products_orders.foundby.I.5
+    altLabels.6 = LLL:EXT:tt_products_foundby/Resources/Private/Language/locallang.xlf:sys_products_orders.foundby.I.6
+}
+
