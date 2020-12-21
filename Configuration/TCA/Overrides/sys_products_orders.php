@@ -16,4 +16,5 @@ call_user_func(function () {
             [$languageFile . ':sys_products_orders.foundby.I.5', '5'],
             [$languageFile . ':sys_products_orders.foundby.I.6', '6']
         ];
+    }
 });
