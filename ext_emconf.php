@@ -1,8 +1,8 @@
 <?php
 
-/***************************************************************
- * Extension Manager/Repository config file for ext "tt_products".
- ***************************************************************/
+/*************************************************************************
+ * Extension Manager/Repository config file for ext "tt_products_foundby ".
+ *************************************************************************/
 
 $EM_CONF[$_EXTKEY] = [
 	'title' => 'Foundby Selector Texts for Shop System',
