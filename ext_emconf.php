@@ -5,7 +5,7 @@
  ***************************************************************/
 
 $EM_CONF[$_EXTKEY] = [
-	'title' => 'Shop System',
+	'title' => 'Foundby Selector Texts for Shop System',
 	'description' => 'Modified foundby select box entries for tt_products',
 	'category' => 'plugin',
 	'state' => 'stable',
@@ -15,7 +15,7 @@ $EM_CONF[$_EXTKEY] = [
 	'author' => 'Franz Holzinger',
 	'author_email' => 'franz@ttproducts.de',
 	'author_company' => 'jambage.com',
-	'version' => '0.1.3',
+	'version' => '0.1.4',
 	'constraints' => [
 		'depends' => [
 			'php' => '5.5.0-7.99.99',

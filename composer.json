@@ -6,7 +6,8 @@
     "TYPO3",
     "extension",
     "shop",
-    "foundby"
+    "foundby",
+    "tt_products"
   ],
   "support": {
     "issues": "https://jambage.com/kontakt/forum.html"
