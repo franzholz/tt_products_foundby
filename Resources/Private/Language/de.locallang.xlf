@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.0" xmlns:t3="http://typo3.org/schemas/xliff">
-	<file t3:id="1606411265" source-language="en" datatype="plaintext" original="messages" date="2020-11-26T18:21:00Z" product-name="tt_products_foundby">
+	<file source-language="en" datatype="plaintext" original="messages" date="2020-11-26T18:21:00Z" product-name="tt_products_foundby">
 		<header/>
 		<body>
 			<trans-unit id="sys_products_orders.foundby.I.0">

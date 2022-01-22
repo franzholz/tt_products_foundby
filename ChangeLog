@@ -1,4 +1,6 @@
-
+2022-01-22 Franz Holzinger <franz@ttproducts.de>
+    * support for TYPO3 11.5 and PHP 8
+    * compatibility TYPO3 11.5: remove t3:id from locallang xlf files
 
 2020-12-18  Franz Holzinger  <franz@ttproducts.de>
     * initial version
